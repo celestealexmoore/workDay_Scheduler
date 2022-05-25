@@ -23,7 +23,7 @@
 
 The following animation demonstrates the application functionality:
 
-![A user scrolls through the scheduler, adds an event and saves the changes.](./Assets/05-third-party-apis-homework-demo.gif)
+![A user scrolls through the scheduler, adds an event and saves the changes.](./Assets/images/05-third-party-apis-homework-demo.gif)
 
 ## Deployed Site
 
