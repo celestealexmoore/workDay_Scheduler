@@ -19,9 +19,9 @@ for (let i = 0; i < 8; i++) {
     "col saveBtn bi bi-cloud-download-fill fa-2x align-bottom"
   );
 
-  timeblockHr.innerText = blockTime + "am";
+  timeblockHr.innerText = blockTime++ + "am";
 
-  if(blockTime < 10) {
+  if(blockTime > 9) {
       timeblockText.setAttribute('class', 'past col-8 text');
   }
 
