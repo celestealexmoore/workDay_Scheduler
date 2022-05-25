@@ -27,7 +27,7 @@ The following animation demonstrates the application functionality:
 
 ## Deployed Site
 
-   [The correct link is coming soon. In the meantime, play this game I built.](https://celestealexmoore.github.io/Rock-Paper-Scissors/)
+   [This is the link to the deployed application.](https://celestealexmoore.github.io/workDay_Scheduler/)
 
 ## Contributors
 
@@ -40,7 +40,7 @@ celestealexmoore@gmail.com.
 
 ## Project Status
 
-In progress
+Completed
 
 ---
 
